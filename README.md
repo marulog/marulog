@@ -25,7 +25,8 @@ Docker | GitHub Actions | MySQL | Raspberry Pi | Jetson
 ## 🏆 활동
 - 🎖 **공학경진대회 장려상** – *웹 피싱 사이트 탐지 서비스*  
 - 🥇 **캡스톤디자인 우수상** – *블록체인·IPFS 기반 OTA 업데이트 시스템*
-- - ✍ **우수 발표 논문 선정** - *제한된 차량 ECU 환경에서 SHA-256, BLAKE 계열 해시 함수의 성능 비교 분석, 한국자동차공학회 2025 춘계 학술대회*   
+-  ✍ **우수 발표 논문 선정** - *제한된 차량 ECU 환경에서 SHA-256, BLAKE 계열 해시 함수의 성능 비교 분석, 한국자동차공학회 2025 춘계 학술대회*
+  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12278955
 
 ---
 
