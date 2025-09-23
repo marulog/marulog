@@ -11,13 +11,13 @@
 
 ## 🛠 기술 스택
 **Languages & Frameworks**  
-Java | Python | Go | C | Spring Boot | Flask | Flutter  
+Java | Python | Spring Boot | Flask | Flutter  
 
 **DevOps & Tools**  
-Docker | GitHub Actions | MySQL | Raspberry Pi | Jetson  
+Docker | MySQL | Raspberry Pi | Jetson  
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,go,flutter,docker,git,spring,flask,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,flutter,docker,git,spring,flask,mysql" />
 </p>
 
 ---
@@ -25,15 +25,15 @@ Docker | GitHub Actions | MySQL | Raspberry Pi | Jetson
 ## 🏆 활동
 - 🎖 **공학경진대회 장려상** – *웹 피싱 사이트 탐지 서비스*  
 - 🥇 **캡스톤디자인 우수상** – *블록체인·IPFS 기반 OTA 업데이트 시스템*
--  ✍ **우수 발표 논문 선정** - *제한된 차량 ECU 환경에서 SHA-256, BLAKE 계열 해시 함수의 성능 비교 분석, 한국자동차공학회 2025 춘계 학술대회*
-  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12278955
+-  ✍ **우수 발표 논문 선정** - *제한된 차량 ECU 환경에서 SHA-256, BLAKE 계열 해시 함수의 성능 비교 분석*
+   *한국자동차공학회 2025 춘계 학술대회*  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12278955
 
 ---
 
 
 ## 📬 연락처
-- 📧 Email: **marubug117@gmail.com**  
+- 📧 Email: **gr214777@naver.com**  
 - 💼 LinkedIn: 
-- 📒 Portfolio/Blog: 
+- 📒 Portfolio/Blog: **https://lmaru.tistory.com/**
 
 ---
