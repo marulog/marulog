@@ -4,7 +4,6 @@
   <h1 align="center">🐱 maru's GITHUB 🐱</h1>
 
   ![visitors](https://komarev.com/ghpvc/?username=marulog&label=VISITORS&style=flat-square)  
-  [![Tistory Blog](https://img.shields.io/badge/Blog-Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://lmaru.tistory.com/)
 
   - 한성대학교 컴퓨터공학부 <sub>(2021.03 ~ ing)</sub>  
   - MCS Lab 학부연구생 <sub>(2024.12 ~ 2025.08)</sub>  
